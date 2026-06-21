@@ -1,0 +1,4 @@
+interface:
+  display_name: "ShineMoon ImageGen"
+  short_description: "用 ShineMoon Images API 生成图片"
+  default_prompt: "Use $shinemoon-imagegen to generate an image from my prompt via the configured ShineMoon API."
